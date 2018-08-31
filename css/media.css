@@ -1,0 +1,37 @@
+/*1601 - 1920px*/
+@media screen and (max-width: 1920px){
+
+}
+/*1369 - 1600px*/
+@media screen and (max-width: 1600px){
+	
+}
+/*961 - 1368px*/
+@media screen and (max-width: 1368px){
+   
+
+}
+/*769 - 960px*/
+@media screen and (max-width: 960px){
+	
+    nav ul {
+	list-style-type: none;
+	padding: 30px;
+	display: block;
+	text-align: right;
+}
+
+nav  ul li {
+	word-spacing: 5px;
+	padding-bottom: 5px;
+}
+
+
+}
+/*481 - 768px*/
+@media screen and (max-width: 768px){
+	
+}
+/*320 - 480px*/
+
+}
